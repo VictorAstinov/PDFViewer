@@ -1,7 +1,6 @@
 ## Student Info
 
 Victor Astinov
-vastinov 20851407
 
 ## Technical Info
 Tested with Android API level 30 on the Pixel C tablet with AVD. Primary testing was done on Samsung Galaxy S10, API level 31
